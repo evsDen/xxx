@@ -1,0 +1,15 @@
+C:\Users\sarat\Desktop\git\bin\Debug\net6.0\git.exe
+C:\Users\sarat\Desktop\git\bin\Debug\net6.0\git.deps.json
+C:\Users\sarat\Desktop\git\bin\Debug\net6.0\git.runtimeconfig.json
+C:\Users\sarat\Desktop\git\bin\Debug\net6.0\git.dll
+C:\Users\sarat\Desktop\git\bin\Debug\net6.0\git.pdb
+C:\Users\sarat\Desktop\git\obj\Debug\net6.0\git.csproj.AssemblyReference.cache
+C:\Users\sarat\Desktop\git\obj\Debug\net6.0\git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarat\Desktop\git\obj\Debug\net6.0\git.AssemblyInfoInputs.cache
+C:\Users\sarat\Desktop\git\obj\Debug\net6.0\git.AssemblyInfo.cs
+C:\Users\sarat\Desktop\git\obj\Debug\net6.0\git.csproj.CoreCompileInputs.cache
+C:\Users\sarat\Desktop\git\obj\Debug\net6.0\git.dll
+C:\Users\sarat\Desktop\git\obj\Debug\net6.0\refint\git.dll
+C:\Users\sarat\Desktop\git\obj\Debug\net6.0\git.pdb
+C:\Users\sarat\Desktop\git\obj\Debug\net6.0\git.genruntimeconfig.cache
+C:\Users\sarat\Desktop\git\obj\Debug\net6.0\ref\git.dll
